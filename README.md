@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamaSamrin
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Data Visualization
 - 📫 How to reach me: samasamrin@gmail.com
 
 <!---
